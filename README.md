@@ -9,7 +9,15 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/WzhElpj.gif"  />
+<img align="right" height="350" src="https://i.imgur.com/WzhElpj.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/9f4v5ca1ptzvzlp1rrt8g4mre">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9f4v5ca1ptzvzlp1rrt8g4mre&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -44,20 +52,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=@localconviniencestore&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <a href="https://open.spotify.com/user/9f4v5ca1ptzvzlp1rrt8g4mre">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9f4v5ca1ptzvzlp1rrt8g4mre&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sakaaa1/sakaaa1/output/snake.svg" alt="Snake animation" />
 
 ###
 
