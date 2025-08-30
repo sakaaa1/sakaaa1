@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://imgflip.com/gif/a4kye4"  />
+<img align="right" height="200" src="https://i.imgur.com/WzhElpj.gif"  />
 
 ###
 
@@ -49,21 +49,19 @@
 
 <br clear="both">
 
+<div align="right">
+  <a href="https://open.spotify.com/user/9f4v5ca1ptzvzlp1rrt8g4mre">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9f4v5ca1ptzvzlp1rrt8g4mre&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/sakaaa1/sakaaa1/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <a href="https://open.spotify.com/user/9f4v5ca1ptzvzlp1rrt8g4mre">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9f4v5ca1ptzvzlp1rrt8g4mre&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
